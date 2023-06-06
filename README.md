@@ -1,1 +1,6 @@
 # Student-Database-Management-System
+
+New features will be added soon ...
+
+
+Have a nice dayy ...
